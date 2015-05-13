@@ -1,0 +1,100 @@
+---proj---
+Minimalism
+    Because less is more
+
+Software:
+Chess (engine dev, see Sinclair XL, Atari 2600, Kim-1 vers; Miramax, Mac Hack@MIT)
+Sudoku
+Running Calculator
+Rubiks Cube Solving
+FTP/HTTP/Gopher/Telnet/SSH Server Software
+Runescape/Minecraft Server Configuration (Java)
+BBS/ARPAnet Simulation (telehack, Community Message Center, using perl, epoll)
+Text Editor (syntax highlighting, NIX+DOS compatibility (LF+BR))
+OS Dev (use floppy bootloader, can do in ASM; BakingPi; osix)
+Emulation (Chip-8, Atari 2600, NES)
+Coding (PHP, Python, Perl, C++, BASIC, Java, Scratch)
+    Cover AP CompSci Test Materials
+A/V Editing
+Text Compression (ChristOnDisk)
+Game Development (Game Maker, Roguelike)
+Linux Tinkering
+Pen Testing/Security (Kali, Virus disassembly?)
+One line play reader (Shakespeare; Moby, OSS)
+TI Emulator or port games
+Tic-Tac-Toe 
+Connect 4
+Bots (Runescape, Chat, Telehack)
+Apple ][ Port of Organ Train
+Bowling (Patent: US 8088017)
+Settlers of Catan (WebRTC)
+Text Adventure (Z-Code)
+
+Hardware:
+Project MF (Asterix)
+Server Building (Beowulf Cluster, Parallel)
+Computer Repair (Diagnostics)
+Basic Electronics
+Arudinio (Microcontrollers)
+TV Interface (TV Pong, console programming)
+Fab Lab (Fabrication Laboratory):
+    3D Printing 
+    PCB Printing
+    IC Fab
+PirateBox (local wifi file hosting)
+A/V Recording
+Robotics
+Cell Jammer
+MOS Interfacing for 6502 Processor
+                    6581 SID
+Wireless Coffee Machine (telnet, webcam?)
+Book Scanner (OCR software connection, yearbook, newspaper)
+Arcade cabinet (4-button joystick)
+LED Binary Clock
+Floppy Music (mrsolidsnake745)
+Sampler Pad
+PipBoy 3000
+Daft Punk Helmets
+Radio
+
+Other Ideas:
+Consultation w/ companies (Microsoft, Valve)
+CompSci @ MIT
+Khan Academy
+Codecademy
+Project Euler
+Adafruit WebIDE, Google Coder
+TechStart (Willamette Competition, Treehouse)
+Madison High School Technology Club (github.com/madisonpdx)
+PAX
+Vegas (math)
+
+---withouttime---
+Try to imagine a life without timekeeping.
+
+   You probably can't. You know the month, the year, the day of
+the week. There is a clock on your wall or the dashboard of your
+car. You have a schedule, a calendar, a time for dinner or a movie.
+   Yet all around you, timekeeping is ignored. Birds are not late.
+A dog does not check its watch. Deer do not fret over passing
+birthdays.
+   Man alone measures time.
+   Man alone chimes the hour.
+   And because of this, man suffers a paralyzing fear that
+no other creature endures.
+   A fear of time running out.
+
+---econ---
+Quux Data Inc.
+
+LiveStat: Sports - Real-Time Sports Analytics (StatTrack)
+Nielsen@Home: Television - Refined Nielsen Ratings
+AgriLyze: Agriculture - Monitoring 
+Babel: Library/Informational Sciences - Scanning/OCR/Translation
+GetMeThere: Transportation - Traffic Data/GPS
+
+
+---1lastgem---
+It won't do to say to a man, `You can create. Do so.'
+It is much safer to wait for a man to say, `I can create, and I will do so whether you wish it or not.' 
+	-Profession (1957)
