@@ -29,6 +29,7 @@ Apple ][ Port of Organ Train
 Bowling (Patent: US 8088017)
 Settlers of Catan (WebRTC)
 Text Adventure (Z-Code)
+IRC Client
 
 Hardware:
 Project MF (Asterix)
