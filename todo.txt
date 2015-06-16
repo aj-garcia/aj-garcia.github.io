@@ -57,6 +57,7 @@ Sampler Pad
 PipBoy 3000
 Daft Punk Helmets
 Radio
+Pocket Radio Station (Radio+PipBoy)
 
 Other Ideas:
 Consultation w/ companies (Microsoft, Valve)
@@ -69,6 +70,12 @@ TechStart (Willamette Competition, Treehouse)
 Madison High School Technology Club (github.com/madisonpdx)
 PAX
 Vegas (math)
+
+Wood:
+Record Cabinet
+Cribbage Board
+Shoeshine Box
+Cassino Tournement Trophy
 
 ---withouttime---
 Try to imagine a life without timekeeping.
